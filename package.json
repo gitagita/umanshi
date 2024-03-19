@@ -1,0 +1,11 @@
+{
+  "name": "umanshi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gitagita/umanshi.git",
+  "author": "YUNAKA <yunaka.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
