@@ -1,7 +1,7 @@
 var express = require("express");
 var router = express.Router();
-var db = require('./../../../database');
-var template = require('./../template');
+var db = require('./../../../../database');
+var template = require('./../../template');
 
 router.get("/", (req, res) => {
   const sql = "SHOW TABLES";
