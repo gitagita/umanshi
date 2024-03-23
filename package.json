@@ -9,6 +9,7 @@
   "author": "YUNAKA <yunaka.dev@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "crypto": "^1.0.1",
     "express": "^4.18.3",
     "mysql2": "^3.9.2",
     "react-scripts": "^5.0.1"
